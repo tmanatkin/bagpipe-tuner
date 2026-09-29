@@ -1,7 +1,7 @@
-const MIN_FREQUENCY = 300;
-const MAX_FREQUENCY = 1400;
+const MIN_FREQUENCY = 150;
+const MAX_FREQUENCY = 800;
 const HISTORY_SIZE = 7; // For median filtering
-const LOW_A_FREQUENCY = 490;
+const LOW_A_FREQUENCY = 300;
 
 type NoteInfo = {
 	note: string;
