@@ -1,4 +1,4 @@
-app = 'bagpipe-web-app'
+app = 'bagpipe-tuner'
 primary_region = 'sjc'
 
 [build]
