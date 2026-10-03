@@ -7,7 +7,7 @@ Live pitch tuner for the Highland bagpipes with drone filtering.
 ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker)
 ![Fly.io](https://img.shields.io/badge/Fly.io-222222?style=for-the-badge&logo=flydotio&logoColor=8B5CF6)
 
-<img src=".github/preview.png" width="640">
+<img src=".github/preview.png" width="640" alt="Bagpipe Tuner">
 
 - YIN algorithm pitch detection through the device microphone
 - High-pass drone filtering to isolate the chanter
