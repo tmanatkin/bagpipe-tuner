@@ -1,6 +1,8 @@
 # Bagpipe Tuner
 
-Live pitch tuner for the Highland bagpipes with drone filtering.
+Tuner for Highland bagpipes with drone filtering.
+
+<samp>&gt;</samp> Learned pitch detection for an instrument I play.
 
 ![Svelte](https://img.shields.io/badge/Svelte-222222?style=for-the-badge&logo=svelte)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript)
